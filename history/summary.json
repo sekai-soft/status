@@ -42,9 +42,9 @@
     "url": "https://mastodon.ktachibana.party/health",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.ktachibana.party.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +53,18 @@
     "timeWeek": 517,
     "timeMonth": 502,
     "timeYear": 502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "Pill City",
     "url": "https://api.pill.city",
     "icon": "https://icons.duckduckgo.com/ip3/api.pill.city.ico",
     "slug": "pill-city",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +73,9 @@
     "timeWeek": 407,
     "timeMonth": 412,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   },
   {
     "name": "RSS-lambda",
@@ -79,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss-lambda.ktachibana.party.ico",
     "slug": "rss-lambda",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.78%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
     "time": 548,
     "timeDay": 449,
     "timeWeek": 469,
     "timeMonth": 548,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2024-09-03": 0,
+      "2024-09-03": 17,
       "2024-09-01": 45,
       "2024-08-20": 18
     }
@@ -100,7 +104,7 @@
     "url": "https://rsshub.ktachibana.party/",
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ktachibana.party.ico",
     "slug": "rss-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -111,6 +115,8 @@
     "timeWeek": 510,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-03": 0
+    }
   }
 ]
