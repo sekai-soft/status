@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.ktachibana.party.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.92%",
     "time": 495,
     "timeDay": 648,
     "timeWeek": 535,
     "timeMonth": 490,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 61
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pill.city.ico",
     "slug": "pill-city",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.92%",
     "time": 452,
     "timeDay": 499,
     "timeWeek": 471,
     "timeMonth": 478,
     "timeYear": 452,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 61
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss-lambda.xyz.ico",
     "slug": "rss-lambda",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.80%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.80%",
     "time": 487,
     "timeDay": 438,
     "timeWeek": 378,
     "timeMonth": 439,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2024-09-29": 0,
+      "2024-09-29": 61,
       "2024-09-03": 25,
       "2024-09-01": 45,
       "2024-08-20": 18
@@ -106,18 +106,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.ktachibana.party.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.92%",
     "time": 450,
     "timeDay": 699,
     "timeWeek": 505,
     "timeMonth": 474,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-09-29": 0
+      "2024-09-29": 61
     }
   }
 ]
