@@ -1,7 +1,7 @@
 url: https://mastodon.ktachibana.party/health
-status: up
-code: 200
-responseTime: 493
-lastUpdated: 2024-10-08T23:07:26.443Z
+status: down
+code: 502
+responseTime: 657
+lastUpdated: 2024-10-09T14:37:18.541Z
 startTime: 2024-08-08T19:33:25.517Z
 generator: Upptime <https://github.com/upptime/upptime>
