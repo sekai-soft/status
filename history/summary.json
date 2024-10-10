@@ -4,19 +4,19 @@
     "url": "https://emoticon.moe/store",
     "icon": "https://icons.duckduckgo.com/ip3/emoticon.moe.ico",
     "slug": "cloud-emoticon-store",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 998,
-    "timeWeek": 701,
-    "timeMonth": 619,
-    "timeYear": 642,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 645,
+    "timeDay": 934,
+    "timeWeek": 712,
+    "timeMonth": 625,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 9
     }
   },
   {
