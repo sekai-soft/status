@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 501,
-    "timeWeek": 746,
-    "timeMonth": 623,
-    "timeYear": 644,
+    "time": 642,
+    "timeDay": 489,
+    "timeWeek": 732,
+    "timeMonth": 622,
+    "timeYear": 642,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 282,
-    "timeDay": 309,
-    "timeWeek": 350,
-    "timeMonth": 322,
-    "timeYear": 282,
+    "time": 283,
+    "timeDay": 348,
+    "timeWeek": 363,
+    "timeMonth": 328,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2024-09-01": 46
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.88%",
-    "time": 475,
-    "timeDay": 596,
-    "timeWeek": 463,
-    "timeMonth": 432,
-    "timeYear": 475,
+    "time": 472,
+    "timeDay": 318,
+    "timeWeek": 468,
+    "timeMonth": 434,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2024-09-29": 116
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.88%",
-    "time": 440,
-    "timeDay": 306,
-    "timeWeek": 364,
-    "timeMonth": 449,
-    "timeYear": 440,
+    "time": 441,
+    "timeDay": 458,
+    "timeWeek": 391,
+    "timeMonth": 419,
+    "timeYear": 441,
     "dailyMinutesDown": {
       "2024-09-29": 116
     }
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss-lambda.xyz.ico",
     "slug": "rss-lambda",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.78%",
-    "time": 466,
-    "timeDay": 417,
-    "timeWeek": 334,
-    "timeMonth": 375,
-    "timeYear": 466,
+    "uptimeYear": "99.79%",
+    "time": 465,
+    "timeDay": 410,
+    "timeWeek": 340,
+    "timeMonth": 381,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2024-09-29": 116,
       "2024-09-03": 25,
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.88%",
-    "time": 437,
-    "timeDay": 363,
-    "timeWeek": 399,
-    "timeMonth": 429,
-    "timeYear": 437,
+    "time": 438,
+    "timeDay": 517,
+    "timeWeek": 435,
+    "timeMonth": 437,
+    "timeYear": 438,
     "dailyMinutesDown": {
       "2024-09-29": 116
     }
