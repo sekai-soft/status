@@ -1,7 +1,7 @@
 url: https://rss-lambda.xyz/rss?url=https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCrMjr7dY8syS_m9TdqM-g_Q&op=filter_title_excl_substrs&param=%E6%AF%8F%E6%97%A5&param=%E9%9B%AA%E8%8A%B1
-status: up
-code: 200
-responseTime: 348
-lastUpdated: 2025-01-04T23:04:46.237Z
+status: down
+code: 502
+responseTime: 297
+lastUpdated: 2025-01-05T01:17:53.667Z
 startTime: 2024-08-08T19:33:27.088Z
 generator: Upptime <https://github.com/upptime/upptime>
