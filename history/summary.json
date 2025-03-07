@@ -22,9 +22,9 @@
     "url": "https://galerie-reader.com/",
     "icon": "https://icons.duckduckgo.com/ip3/galerie-reader.com.ico",
     "slug": "galerie",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
@@ -34,6 +34,7 @@
     "timeMonth": 271,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2025-03-07": 0,
       "2025-02-18": 25,
       "2024-09-01": 46
     }
@@ -105,13 +106,13 @@
     "slug": "rss-lambda",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "94.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.74%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "99.22%",
     "time": 1442,
-    "timeDay": 490,
-    "timeWeek": 3210,
+    "timeDay": 388,
+    "timeWeek": 3229,
     "timeMonth": 2905,
     "timeYear": 1442,
     "dailyMinutesDown": {
