@@ -110,15 +110,15 @@
     "url": "https://rss-lambda.xyz/rss?url=https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCrMjr7dY8syS_m9TdqM-g_Q&op=filter_title_excl_substrs&param=%E6%AF%8F%E6%97%A5&param=%E9%9B%AA%E8%8A%B1",
     "icon": "https://icons.duckduckgo.com/ip3/rss-lambda.xyz.ico",
     "slug": "rss-lambda",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "94.13%",
-    "uptimeWeek": "93.38%",
-    "uptimeMonth": "91.03%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "93.61%",
+    "uptimeMonth": "91.07%",
     "uptimeYear": "98.94%",
     "time": 2053,
     "timeDay": 3162,
-    "timeWeek": 2123,
+    "timeWeek": 2162,
     "timeMonth": 3038,
     "timeYear": 2053,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
       "2025-04-03": 154,
       "2025-04-02": 117,
       "2025-03-31": 229,
-      "2025-03-30": 376
+      "2025-03-30": 358
     }
   },
   {
