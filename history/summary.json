@@ -4,9 +4,9 @@
     "url": "https://emoticon.moe/store",
     "icon": "https://icons.duckduckgo.com/ip3/emoticon.moe.ico",
     "slug": "cloud-emoticon-store",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1238,
     "timeMonth": 928,
     "timeYear": 702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "Galerie",
@@ -113,12 +115,12 @@
     "status": "up",
     "uptime": "98.99%",
     "uptimeDay": "93.24%",
-    "uptimeWeek": "93.39%",
+    "uptimeWeek": "93.54%",
     "uptimeMonth": "91.29%",
     "uptimeYear": "98.99%",
     "time": 2190,
     "timeDay": 376,
-    "timeWeek": 4101,
+    "timeWeek": 4191,
     "timeMonth": 3238,
     "timeYear": 2190,
     "dailyMinutesDown": {
