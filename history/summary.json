@@ -4,7 +4,7 @@
     "url": "https://emoticon.moe/store",
     "icon": "https://icons.duckduckgo.com/ip3/emoticon.moe.ico",
     "slug": "cloud-emoticon-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 997,
     "timeYear": 732,
     "dailyMinutesDown": {
+      "2025-06-18": 0,
       "2025-05-26": 28,
       "2025-04-28": 117
     }
