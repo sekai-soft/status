@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.ktachibana.party.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "96.51%",
+    "uptime": "96.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "96.51%",
+    "uptimeYear": "96.52%",
     "time": 450,
     "timeDay": 526,
     "timeWeek": 398,
@@ -94,9 +94,9 @@
     "url": "https://rss-lambda.xyz/rss?url=https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCrMjr7dY8syS_m9TdqM-g_Q&op=filter_title_excl_substrs&param=%E6%AF%8F%E6%97%A5&param=%E9%9B%AA%E8%8A%B1",
     "icon": "https://icons.duckduckgo.com/ip3/rss-lambda.xyz.ico",
     "slug": "rss-lambda",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.27%",
@@ -106,6 +106,7 @@
     "timeMonth": 1374,
     "timeYear": 2099,
     "dailyMinutesDown": {
+      "2025-07-01": 0,
       "2025-06-28": 96,
       "2025-06-26": 33,
       "2025-06-25": 21,
@@ -148,8 +149,7 @@
       "2025-04-14": 267,
       "2025-04-13": 135,
       "2025-04-12": 122,
-      "2025-04-11": 216,
-      "2025-04-10": 35
+      "2025-04-11": 216
     }
   },
   {
