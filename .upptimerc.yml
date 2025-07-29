@@ -2,16 +2,10 @@ owner: sekai-soft # Your GitHub organization or username, where this repository 
 repo: status # The name of this repository
 
 sites:
-  - name: Cloud Emoticon Store
-    url: https://emoticon.moe/store
   - name: Mastodon
     url: https://mastodon.ktachibana.party/health
-  - name: Pill City
-    url: https://api.pill.city
   - name: RSS-lambda
     url: https://rss-lambda.xyz/rss?url=https%3A%2F%2Fwww.youtube.com%2Ffeeds%2Fvideos.xml%3Fchannel_id%3DUCrMjr7dY8syS_m9TdqM-g_Q&op=filter_title_excl_substrs&param=%E6%AF%8F%E6%97%A5&param=%E9%9B%AA%E8%8A%B1
-  - name: RSSHub
-    url: https://rsshub.ktachibana.party/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
