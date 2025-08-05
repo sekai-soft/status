@@ -6,16 +6,17 @@
     "slug": "rss-lambda",
     "status": "up",
     "uptime": "99.30%",
-    "uptimeDay": "98.40%",
+    "uptimeDay": "98.39%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "99.30%",
-    "time": 2114,
+    "time": 2112,
     "timeDay": 838,
-    "timeWeek": 2729,
-    "timeMonth": 2130,
-    "timeYear": 2114,
+    "timeWeek": 3155,
+    "timeMonth": 2162,
+    "timeYear": 2112,
     "dailyMinutesDown": {
+      "2025-08-05": 0,
       "2025-08-04": 23,
       "2025-07-30": 36,
       "2025-07-28": 65,
@@ -67,7 +68,7 @@
       "2025-04-17": 75,
       "2025-04-16": 195,
       "2025-04-15": 240,
-      "2025-04-14": 176
+      "2025-04-14": 160
     }
   },
   {
@@ -81,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 513,
-    "timeWeek": 431,
-    "timeMonth": 413,
-    "timeYear": 413,
+    "time": 415,
+    "timeDay": 476,
+    "timeWeek": 459,
+    "timeMonth": 415,
+    "timeYear": 415,
     "dailyMinutesDown": {}
   }
 ]
