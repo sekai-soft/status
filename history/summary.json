@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rss-lambda.xyz.ico",
     "slug": "rss-lambda",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "93.03%",
-    "uptimeWeek": "94.97%",
-    "uptimeMonth": "98.41%",
+    "uptime": "99.42%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "98.34%",
     "uptimeYear": "99.21%",
     "time": 1835,
     "timeDay": 868,
     "timeWeek": 640,
     "timeMonth": 757,
-    "timeYear": 2050,
+    "timeYear": 2048,
     "dailyMinutesDown": {
+      "2025-12-24": 32,
       "2025-12-23": 100,
       "2025-12-22": 137,
       "2025-12-21": 124,
@@ -78,7 +79,7 @@
       "2025-05-29": 36,
       "2025-05-25": 141,
       "2025-05-24": 90,
-      "2025-05-17": 33
+      "2025-05-17": 17
     }
   },
   {
