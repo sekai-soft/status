@@ -6,17 +6,16 @@
     "slug": "rss-lambda",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "96.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "96.12%",
     "uptimeYear": "99.11%",
-    "time": 1835,
-    "timeDay": 225,
-    "timeWeek": 356,
-    "timeMonth": 586,
-    "timeYear": 1990,
+    "time": 1840,
+    "timeDay": 283,
+    "timeWeek": 348,
+    "timeMonth": 575,
+    "timeYear": 1998,
     "dailyMinutesDown": {
-      "2026-01-11": 9,
       "2026-01-09": 32,
       "2026-01-06": 72,
       "2026-01-05": 103,
@@ -78,7 +77,8 @@
       "2025-07-09": 145,
       "2025-07-02": 46,
       "2025-06-28": 96,
-      "2025-06-26": 33
+      "2025-06-26": 33,
+      "2025-06-25": 21
     }
   },
   {
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 403,
-    "timeDay": 229,
-    "timeWeek": 347,
-    "timeMonth": 336,
+    "timeDay": 446,
+    "timeWeek": 360,
+    "timeMonth": 338,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2025-11-18": 105,
